@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📜 Certifications
+
+[![C-CAP](241001105047.pdf)](https://drive.google.com/file/d/1jXLt6Jl07qag9ueBhGN0jKsoG2wW0Mda/view?usp=drivesdk)
